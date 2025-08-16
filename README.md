@@ -7,7 +7,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <h1>🖼️ Image Preprocessing with Python (PIL + Matplotlib)</h1>
+  <h1>Image Preprocessing with Python (PIL + Matplotlib)</h1>
 
   <h2>📌 Overview</h2>
   <p>
