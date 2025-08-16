@@ -23,9 +23,3 @@ The notebook demonstrates how fundamental preprocessing operations transform raw
 
 🧠 Why it matters in ML:
 These preprocessing steps transform raw images into cleaner, more consistent inputs, ensuring better feature extraction, improved training efficiency, and higher model accuracy in computer vision tasks.
-
-
-🔗 
-
-
-
